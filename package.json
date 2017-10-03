@@ -1,0 +1,32 @@
+{
+  "name": "protractor-workshop-2017",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Protactor",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor protractor.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizethmendoza/protractor-workshop-2017.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "protractor"
+  ],
+  "author": "Lizeth Mendoza - lmendozav@psl.com.co (lizethmendoza)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizethmendoza/protractor-workshop-2017/issues"
+  },
+  "homepage": "https://github.com/lizethmendoza/protractor-workshop-2017#readme",
+  "dependencies": {
+    "protractor": "^5.1.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
